@@ -10,7 +10,7 @@ import pandas as pd
 Buying order condition,
 Stop loss,
 Target,
-Exit at 14:55
+Exit at 14:55 # May Cause Error and Check Comparison
 Profit and loss.'''
 
 stock_name = "RELIANCE"
